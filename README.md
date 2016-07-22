@@ -9,6 +9,12 @@ Programming languages used are:
   4.MySql database
   
   Screenshots:
-  ![alt text](screenshots/buy365/filename/index.png "Index page ")
+  ![alt text](screenshots/buy365/index.png "Index page ")
+  ![alt text](screenshots/buy365/home.jpg "Home page for logged in users")
+  ![alt text](screenshots/buy365/loginmodal.jpg "Log-in modal ")
+  ![alt text](screenshots/buy365/signup.jpg "Signup page ")
+  ![alt text](screenshots/buy365/settings.jpg "Settings page ")
+  ![alt text](screenshots/buy365/cart.jpg "Cart page ")
+  ![alt text](screenshots/buy365/contactus.jpg "ContactUs page ")
   
   More features are to be added soon..
